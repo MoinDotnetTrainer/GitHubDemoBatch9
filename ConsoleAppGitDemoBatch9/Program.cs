@@ -10,6 +10,7 @@ namespace ConsoleAppGitDemoBatch9
     {
         static void Main(string[] args)
         {
+            Console.WriteLine(  "hello world");
         }
     }
 }
