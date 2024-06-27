@@ -8,5 +8,9 @@ namespace ConsoleAppGitDemoBatch9
 {
     internal class ClassDemo
     {
+        public void add() {
+            int x = 45, y = 45, z;
+            z = x + y;
+        }
     }
 }
